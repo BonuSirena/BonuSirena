@@ -50,9 +50,32 @@ Salom! Men Nodira — frontend va dizayn sohasiga qiziqadigan o‘quvchiman. Har
 
 ---
 
-## 📊 GitHub Stats
+## 📬 Contact Me
 
-![Nodira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BonuSirena&show_icons=true&theme=dark)
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 20px; flex-wrap: wrap;">
+
+  <!-- Contact Info -->
+  <div style="width: 48%; font-size: 16px;">
+    <ul>
+      <li>📧 Email: nodira@example.com</li>
+      <li>💼 LinkedIn: <a href="https://linkedin.com/in/nodira">linkedin.com/in/nodira</a></li>
+      <li>📱 Telegram: <a href="https://t.me/nodira_dev">@nodira_dev</a></li>
+    </ul>
+  </div>
+
+  <!-- GIF -->
+  <div style="width: 48%;">
+    <img src="https://github.com/BonuSirena/BonuSirena/blob/main/git-hub-img.gif?raw=true" width="100%" />
+  </div>
+
+</div>
+
+
+
+
+## 📊 GitHub Stats
+ <img src="https://github-readme-stats.vercel.app/api?username=BonuSirena&show_icons=true&theme=dark" width="450"/>
+
 
 
 
