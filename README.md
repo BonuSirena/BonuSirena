@@ -39,15 +39,6 @@ Salom! Men Nodira — frontend va dizayn sohasiga qiziqadigan o‘quvchiman. Har
   <img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" alt="Git" width="60" height="60"/>
   <img src="https://www.bestaitools.com/wp-content/uploads/2023/07/gamma-logo.png" alt="Gamma" width="60" height="60"/>
 </div>
-
----
-
-## 📬 Contact Me
-
-- 📧 Email: bonusirena@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/nodira](https://linkedin.com/in/nodira)  
-- 📱 Telegram: [@nodira_dev](https://t.me/mashrabovna05)
-
 ---
 
 ## 📬 Contact Me
@@ -55,23 +46,23 @@ Salom! Men Nodira — frontend va dizayn sohasiga qiziqadigan o‘quvchiman. Har
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 20px; flex-wrap: wrap;">
 
   <!-- Contact Info -->
-  <div style="width: 48%; font-size: 16px;">
+  <div style="width: 48%; font-size: 16px; display:inline-block;">
     <ul>
-      <li>📧 Email: nodira@example.com</li>
+      <li>📧 Email: bonusirena@gmail.com</li>
       <li>💼 LinkedIn: <a href="https://linkedin.com/in/nodira">linkedin.com/in/nodira</a></li>
-      <li>📱 Telegram: <a href="https://t.me/nodira_dev">@nodira_dev</a></li>
+      <li>📱 Telegram: <a href="https://t.me/nodira_dev">https://t.me/mashrabovna05</a></li>
     </ul>
   </div>
 
   <!-- GIF -->
   <div style="width: 48%;">
-    <img src="https://github.com/BonuSirena/BonuSirena/blob/main/git-hub-img.gif?raw=true" width="100%" />
+    <img src="https://github.com/BonuSirena/BonuSirena/blob/main/git-hub-img.gif?raw=true"" />
   </div>
 
 </div>
 
 
-
+----
 
 ## 📊 GitHub Stats
  <img src="https://github-readme-stats.vercel.app/api?username=BonuSirena&show_icons=true&theme=dark" width="450"/>
