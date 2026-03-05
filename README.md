@@ -50,7 +50,7 @@ Salom! Men Nodira — frontend va dizayn sohasiga qiziqadigan o‘quvchiman. Har
     <ul>
       <li>📧 Email: bonusirena@gmail.com</li>
       <li>💼 LinkedIn: <a href="https://linkedin.com/in/nodira">linkedin.com/in/nodira</a></li>
-      <li>📱 Telegram: <a href="https://t.me/nodira_dev">https://t.me/mashrabovna05</a></li>
+      <li>📱 Telegram: <a href="https://t.me/nodira_dev">https://t.me/nodira_mashrabovna</a></li>
     </ul>
   </div>
 
